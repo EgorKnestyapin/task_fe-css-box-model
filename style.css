@@ -10,3 +10,9 @@ p {
 span {
   border: 2px solid blue;
 }
+/* img {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+} */
